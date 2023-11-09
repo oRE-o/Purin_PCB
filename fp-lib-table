@@ -2,4 +2,7 @@
   (version 7)
   (lib (name "MX_Alps_Hybrid")(type "KiCad")(uri "${KIPRJMOD}/MX_Alps_Hybrid.pretty/MX_Alps_Hybrid.pretty")(options "")(descr ""))
   (lib (name "random-keyboard-parts")(type "KiCad")(uri "${KIPRJMOD}/random-keyboard-parts.pretty")(options "")(descr ""))
+  (lib (name "Keebio-Parts")(type "KiCad")(uri "${KIPRJMOD}/Keebio-Parts.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-xp-promicroish")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/footprints/marbastlib-xp-promicroish.pretty")(options "")(descr ""))
+  (lib (name "illust")(type "KiCad")(uri "${KIPRJMOD}/illust/illust.pretty")(options "")(descr ""))
 )

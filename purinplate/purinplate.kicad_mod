@@ -1,0 +1,173 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2708
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 (module Purin_plate (layer F.Cu) (tedit 652f4531)\
+  (fp_text reference REF** (at 0.2286 -5.0038 180) (layer F.SilkS)\
+    (effects (font (size 1 1) (thickness 0.15)))\
+  )\
+  (fp_text value Purin_plate (at 0 5.4356) (layer F.Fab)\
+    (effects (font (size 1 1) (thickness 0.15)))\
+  )\
+  (fp_poly (pts  (xy 21.84 232.59) (xy 21.84 211.65) (xy 21.84 211.65) (xy 21.84 232.59)\
+   ) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 14.64 265.83) (xy 14.64 244.89) (xy 14.64 244.89) (xy 14.64 265.83)\
+   ) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 7.44 299.07) (xy 7.44 278.13) (xy 7.44 278.13) (xy 7.44 299.07)\
+   ) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 63.39 236.75) (xy 63.39 215.81) (xy 63.39 215.81) (xy 63.39 235)\
+   ) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 96.62 236.75) (xy 96.62 215.81) (xy 96.62 215.81) (xy 96.62 235)\
+   ) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 129.86 233.98) (xy 129.86 211.3) (xy 129.86 232.24)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 104.93 269.98) (xy 104.93 247.3) (xy 104.93 268.24)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 63.39 269.98) (xy 63.39 247.3) (xy 63.39 247.3) (xy 63.39 268.24)\
+   ) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 60.34 303.22) (xy 60.34 282.28) (xy 60.34 282.28) (xy 60.34 303.22)\
+   ) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 106.04 303.22) (xy 106.04 282.28) (xy 106.04 303.22)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 114.61 336.46) (xy 114.61 315.52) (xy 114.61 336.46)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 84.16 369.69) (xy 84.16 348.75) (xy 84.16 348.75) (xy 84.16 369.69)\
+   ) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 42.61 369.69) (xy 42.61 348.75) (xy 42.61 348.75) (xy 42.61 369.69)\
+   ) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 449.24 234.48) (xy 449.24 211.8) (xy 449.24 232.74)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 481.81 238.69) (xy 481.81 217.75) (xy 481.81 238.69)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 440.27 270.54) (xy 440.27 249.6) (xy 440.27 270.54)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 473.5 271.93) (xy 473.5 250.99) (xy 473.5 250.99) (xy 473.5 271.93)\
+   ) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 506.74 271.93) (xy 506.74 250.99) (xy 506.74 271.93)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 548.29 271.93) (xy 548.29 250.99) (xy 548.29 271.93)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 457.16 305.16) (xy 457.16 284.22) (xy 457.16 305.16)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 490.4 305.16) (xy 490.4 284.22) (xy 490.4 284.22) (xy 490.4 305.16)\
+   ) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 525.3 338.4) (xy 525.3 317.46) (xy 525.3 317.46) (xy 525.3 338.4)\
+   ) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 571 338.4) (xy 571 317.46) (xy 571 317.46) (xy 571 338.4)\
+   ) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 479.6 338.4) (xy 479.6 317.46) (xy 479.6 317.46) (xy 479.6 338.4)\
+   ) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 446.36 338.4) (xy 446.36 317.46) (xy 446.36 338.4)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 557.15 371.64) (xy 557.15 350.7) (xy 557.15 371.64)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 165.3 239.57) (xy 185.78 243.92) (xy 190.13 223.44) (xy 169.65 219.09)\
+    (xy 165.3 239.57)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 197.81 246.49) (xy 218.29 250.84) (xy 222.64 230.36) (xy 202.16 226.01)\
+    (xy 197.81 246.49)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 230.32 253.4) (xy 250.8 257.75) (xy 255.15 237.27) (xy 234.67 232.92)\
+    (xy 230.32 253.4)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 262.83 260.31) (xy 283.31 264.66) (xy 287.66 244.18) (xy 267.18 239.83)\
+    (xy 262.83 260.31)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 142.19 268.7) (xy 162.67 273.05) (xy 167.02 252.57) (xy 146.54 248.22)\
+    (xy 142.19 268.7)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 174.7 275.61) (xy 195.18 279.96) (xy 199.53 259.48) (xy 179.05 255.13)\
+    (xy 174.7 275.61)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 207.21 282.52) (xy 227.69 286.87) (xy 232.04 266.39) (xy 211.56 262.04)\
+    (xy 207.21 282.52)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 239.72 289.43) (xy 260.2 293.78) (xy 264.55 273.3) (xy 244.07 268.95)\
+    (xy 239.72 289.43)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 142.78 302.82) (xy 163.26 307.17) (xy 167.61 286.69) (xy 147.13 282.34)\
+    (xy 142.78 302.82)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 175.29 309.73) (xy 195.77 314.08) (xy 200.12 293.6) (xy 179.64 289.25)\
+    (xy 175.29 309.73)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 207.8 316.64) (xy 228.28 320.99) (xy 232.63 300.51) (xy 212.15 296.16)\
+    (xy 207.8 316.64)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 240.31 323.55) (xy 260.79 327.9) (xy 265.14 307.42) (xy 244.66 303.07)\
+    (xy 240.31 323.55)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 150.43 338.36) (xy 170.91 342.71) (xy 175.26 322.23) (xy 154.78 317.88)\
+    (xy 150.43 338.36)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 182.94 345.27) (xy 203.42 349.62) (xy 207.77 329.14) (xy 187.29 324.79)\
+    (xy 182.94 345.27)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 215.45 352.18) (xy 235.93 356.53) (xy 240.28 336.05) (xy 219.8 331.7)\
+    (xy 215.45 352.18)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 247.96 359.09) (xy 268.44 363.44) (xy 272.79 342.96) (xy 252.31 338.61)\
+    (xy 247.96 359.09)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 153.39 373.02) (xy 173.87 377.37) (xy 178.22 356.89) (xy 157.74 352.54)\
+    (xy 153.39 373.02)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 255.09 394.73) (xy 275.57 399.08) (xy 279.92 378.6) (xy 259.44 374.25)\
+    (xy 255.09 394.73)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 316.4 260.89) (xy 336.88 256.54) (xy 332.53 236.06) (xy 311.32 237)\
+    (xy 315.67 257.48)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 348.91 253.98) (xy 369.39 249.63) (xy 365.04 229.15) (xy 344.56 233.5)\
+    (xy 348.91 253.98)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 381.42 247.07) (xy 401.9 242.72) (xy 397.55 222.24) (xy 377.07 226.59)\
+    (xy 381.42 247.07)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 413.93 240.16) (xy 434.41 235.81) (xy 430.06 215.33) (xy 409.58 219.68)\
+    (xy 413.93 240.16)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 405.26 276.05) (xy 425.74 271.7) (xy 421.39 251.22) (xy 400.91 255.57)\
+    (xy 405.26 276.05)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 372.75 282.96) (xy 393.23 278.61) (xy 388.88 258.13) (xy 368.4 262.48)\
+    (xy 372.75 282.96)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 340.24 289.87) (xy 360.72 285.52) (xy 356.37 265.04) (xy 335.89 269.39)\
+    (xy 340.24 289.87)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 307.73 296.79) (xy 328.21 292.44) (xy 323.86 271.96) (xy 303.38 276.31)\
+    (xy 307.73 296.79)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 323.71 327.37) (xy 344.19 323.02) (xy 339.84 302.54) (xy 319.36 306.89)\
+    (xy 323.71 327.37)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 356.22 320.46) (xy 376.7 316.11) (xy 372.35 295.63) (xy 351.87 299.98)\
+    (xy 356.22 320.46)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 388.73 313.55) (xy 409.21 309.2) (xy 404.86 288.72) (xy 384.38 293.07)\
+    (xy 388.73 313.55)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 421.24 306.64) (xy 441.72 302.29) (xy 437.37 281.81) (xy 416.89 286.16)\
+    (xy 421.24 306.64)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 410.6 342.75) (xy 431.08 338.4) (xy 426.73 317.92) (xy 406.25 322.27)\
+    (xy 410.6 342.75)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 378.09 349.66) (xy 398.57 345.31) (xy 394.22 324.83) (xy 373.74 329.18)\
+    (xy 378.09 349.66)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 345.58 356.57) (xy 366.06 352.22) (xy 361.71 331.74) (xy 341.23 336.09)\
+    (xy 345.58 356.57)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 313.07 363.48) (xy 333.55 359.13) (xy 329.2 338.65) (xy 308.72 343)\
+    (xy 313.07 363.48)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 418.05 377.99) (xy 438.53 373.64) (xy 434.18 353.16) (xy 413.7 357.51)\
+    (xy 418.05 377.99)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 531.67 238.69) (xy 531.67 217.75) (xy 531.67 238.69)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 516.94 242.18) (xy 516.94 219.5) (xy 516.94 242.18)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 567.33 242.18) (xy 567.33 219.5) (xy 567.33 242.18)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 60.61 336.46) (xy 60.61 315.52) (xy 60.61 315.52) (xy 60.61 336.46)\
+   ) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 45.88 339.95) (xy 45.88 317.27) (xy 45.88 339.95)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 96.27 339.95) (xy 96.27 317.27) (xy 96.27 339.95)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 565.35 280.74) (xy 565.35 301.68) (xy 565.35 280.74)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 580.07 277.25) (xy 580.07 299.93) (xy 580.07 277.25)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 529.68 277.25) (xy 529.68 299.93) (xy 529.68 277.25)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 231.88 364.78) (xy 211.4 360.43) (xy 207.05 380.91) (xy 227.53 385.26)\
+    (xy 231.88 364.78)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 247.01 364.42) (xy 238.48 362.61) (xy 233.76 384.8) (xy 242.29 386.61)\
+    (xy 247.01 364.42)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 197.72 353.95) (xy 206.25 355.76) (xy 201.53 377.95) (xy 193 376.14)\
+    (xy 197.72 353.95)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 363.83 361.7) (xy 343.35 366.05) (xy 347.7 386.53) (xy 368.18 382.18)\
+    (xy 363.83 361.7)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 377.51 355.23) (xy 368.98 357.04) (xy 373.7 379.23) (xy 382.23 377.42)\
+    (xy 377.51 355.23)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 328.22 365.7) (xy 336.75 363.89) (xy 341.47 386.08) (xy 332.94 387.89)\
+    (xy 328.22 365.7)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 142.39 376.97)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 298.37 410.02)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 592.15 376.89)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 600 209.89)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 387.72 202.01)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 209.27 200.27)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 7.85 202.04)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 0 369.04)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 85.78 192.41)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 204.69 192.41)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 523.27 192.42)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 404.37 192.42)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 520.84 386.49)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 516.3 378.61)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 377.04 403.85)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 370.96 397.1)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 70.1 386.5)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 65.52 378.64)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 214.1 401.99)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 211.25 393.34)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 69.16 202.04)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 90.36 200.27)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 188.08 202.01)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 86.73 376.87)) (layer Dwgs.User) (width 0.15))\
+  (fp_poly (pts  (xy 232.36 396.02)) (layer Dwgs.User) (width 0.15))\
+)\
+}
